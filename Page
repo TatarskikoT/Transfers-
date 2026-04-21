@@ -1,1 +1,77 @@
+<!DOCTYPE html><html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prague Private Driver | Airport Transfer Prague</title>  <!-- SEO -->  <meta name="description" content="Private driver in Prague. Airport transfers, long-distance trips, комфортный минивэн до 6 пассажиров. Fixed price.">
+  <meta name="keywords" content="Prague transfer, airport transfer Prague, private driver Prague, трансфер Прага аэропорт">  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f4f6f8; color: #222; }
+    header { background: url('https://images.unsplash.com/photo-1505761671935-60b3a7427bad?q=80&w=1600') center/cover no-repeat; color: #fff; padding: 80px 20px; text-align: center; position: relative; }
+    header::after { content: ''; position: absolute; inset: 0; background: rgba(0,0,0,0.6); }
+    header * { position: relative; z-index: 1; }
+    h1 { font-size: 36px; margin-bottom: 10px; }
+    .subtitle { font-size: 18px; margin-bottom: 20px; }
 
+    section { padding: 40px 20px; max-width: 1000px; margin: auto; }
+    .card { background: #fff; padding: 25px; border-radius: 14px; margin-bottom: 25px; box-shadow: 0 6px 18px rgba(0,0,0,0.08); }
+
+    .btn { display: inline-block; padding: 16px 26px; background: #25D366; color: #fff; text-decoration: none; border-radius: 12px; font-size: 18px; font-weight: bold; }
+
+    .grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap: 20px; }
+
+    .price { font-size: 22px; font-weight: bold; margin-top: 10px; }
+
+    .reviews { font-style: italic; background: #fafafa; padding: 15px; border-left: 4px solid #25D366; margin-bottom: 10px; }
+
+    footer { text-align: center; padding: 20px; color: #777; }
+  </style></head>
+<body><header>
+  <h1>Private Driver in Prague</h1>
+  <p class="subtitle">Airport Transfers • Long Distance • Up to 6 passengers</p>
+  <a class="btn" href="https://wa.me/420XXXXXXXXX">Book via WhatsApp</a>
+</header><section>
+  <div class="card">
+    <h2>Why clients choose me</h2>
+    <div class="grid">
+      <div>✔ Fixed price — no hidden fees</div>
+      <div>✔ Spacious minivan (ideal for families)</div>
+      <div>✔ Meet & greet at airport</div>
+      <div>✔ Help with luggage</div>
+      <div>✔ English / Russian</div>
+      <div>✔ Available 24/7</div>
+    </div>
+  </div>  <div class="card">
+    <h2>Popular routes</h2><p>Prague Airport → City Center</p>
+<div class="price">1200 Kč</div>
+
+<p>Prague → Karlovy Vary</p>
+<div class="price">3500 Kč</div>
+
+<p>Prague → Dresden</p>
+<div class="price">4000 Kč</div>
+
+<p>Hourly service</p>
+<div class="price">500 Kč / hour</div>
+
+  </div>  <div class="card">
+    <h2>Customer reviews</h2>
+    <div class="reviews">“Very comfortable ride, driver was on time. Highly recommend!”</div>
+    <div class="reviews">“Perfect transfer from airport, easy communication.”</div>
+    <div class="reviews">“Much better than Uber for group travel.”</div>
+  </div>  <div class="card">
+    <h2>How to book</h2>
+    <ol>
+      <li>Send message on WhatsApp</li>
+      <li>Write pickup location, time, passengers</li>
+      <li>Get instant fixed price</li>
+    </ol>
+    <br>
+    <a class="btn" href="https://wa.me/420XXXXXXXXX">Book now</a>
+  </div>  <div class="card">
+    <h2>Contacts</h2>
+    <p>WhatsApp / Telegram: +420 XXX XXX XXX</p>
+    <p>Email: your@email.com</p>
+  </div>
+</section><footer>
+  <p>© 2026 Prague Private Driver</p>
+</footer></body>
+</html>
